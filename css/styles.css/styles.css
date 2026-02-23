@@ -1,0 +1,9 @@
+.wrapper {
+    width: 1080px;
+}
+
+.title {
+    font-family: Verdana;
+    background-color: crimson;
+    font-size: 1.3em;
+}
